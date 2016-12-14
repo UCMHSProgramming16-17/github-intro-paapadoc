@@ -9,5 +9,5 @@ Process:
 3. Push your changes.
 4. Modify the repository online.
 5. Pull your changes.
- 
-CHanged edition
+
+CHanged edition 1.0
